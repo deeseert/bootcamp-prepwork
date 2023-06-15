@@ -5,6 +5,8 @@
  * and return "Hello 'your_name'!"
  */
 
+const greet = (name) => `Hello ${name}!`;
+
 /**
  * Exercise 2
  *
@@ -13,12 +15,28 @@
  * if the age is less than 18
  */
 
+const loginValidation = (age) => {
+	if (age < 18) {
+		return 'Sorry, not allowed.';
+	}
+
+	return 'Welcome!';
+};
+
 /**
  * Exercise 3
  *
  * Create a function `minNumber` which takes 2 numbers as params
  * and return the least one.
  */
+
+const minNumber = (num1, num2) => {
+    if (num1 < num2) {
+        return num1;
+    }
+
+    return num2;
+};
 
 /**
  * Exercise 4
@@ -27,6 +45,8 @@
  * 1 and 10, fraction should be rounded to lower integer
  */
 
+const randomNumber = () => Math.floor(Math.random() * 10) + 1;
+
 /**
  * Exercise 5
  *
@@ -34,3 +54,4 @@
  * returns an opposite number
  */
 
+const getOppositeNumber = (num) => -num;
