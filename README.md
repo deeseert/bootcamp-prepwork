@@ -31,4 +31,8 @@ After you have completed all of the exercises, send an email to [admissions@code
 
 ## Troubleshooting
 
-Make sure you have node 18 installed
+Make sure you have node 18 installed.
+
+## Solutions
+
+You can find the solutions to all the exercises in the branch `solution_2023`.
