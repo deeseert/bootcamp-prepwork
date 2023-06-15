@@ -21,7 +21,7 @@ const city = cities[0];
 city === "London";
 ```
 
-## Some useful functions
+## Some useful functions - methods
 
 Sometimes we want to check if an array contains a particular value. For this we use `includes`.
 

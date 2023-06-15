@@ -20,7 +20,7 @@ When we want that code to run, we call the function by using the name of the fun
 doSomething();
 ```
 
-What things do you do when you arrive home? Turn the lights on, put the heating on, put the kettle on to boil for a cup of tea? Then when you leave you need to turn the lights and the heating off?
+What things do you do when you arrive home? Turn the lights on, put the heating on, put the kettle on to boil for a cup of tea? Then when you leave, you need to turn the lights and the heating off?
 
 ```javascript
 // get home

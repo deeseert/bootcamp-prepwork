@@ -2,7 +2,7 @@
 
 When we refer to a _value_ in our code, the computer needs to know what _type_ of data it is.
 
-In Javascript there are 4 primitive types and 2 complex types. For now, we'll only look at the primitive types.
+In JavaScript there are 4 primitive types and 2 complex types. For now, we'll only look at the primitive types.
 
 ## Primitive types
 
@@ -16,7 +16,7 @@ const city = "London";
 const area = `Moorgate`;
 ```
 
-The type of all of these variables `string`. Single quotes and double quotes are mostly interchangeable, depending on your preference, but backticks have some special behaviour.
+The type of all of these variables is `string`. Single quotes and double quotes are mostly interchangeable, depending on your preference, but backticks have some special behaviour.
 
 Inside backticks, we can actually _execute JS code_. Take a look at this example:
 
@@ -69,4 +69,4 @@ let age;
 
 In this example, `age` will be `undefined`.
 
-Notice we used `let` in this example, not `const`. When declaring a `const` variable, we must _always_ initialize it with a value.
+Notice we used `let` in this example, not `const`. When declaring a `const` variable, we must _always_ initialise it with a value.

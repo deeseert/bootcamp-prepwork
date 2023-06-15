@@ -28,3 +28,7 @@ These are the steps you'll perform to complete each exercise:
 ## Scheduling your interview
 
 After you have completed all of the exercises, send an email to [admissions@codersinhoods.dev](mailto:admissions@codersinhoods.dev?subject=Interview%20Prep%20Complete).
+
+## Troubleshooting
+
+Make sure you have node 18 installed
